@@ -1,11 +1,16 @@
 _repo: The-unwelcome-child-b-Or-The-crime-of-an-undesigned-and-undesired-maternity_71097
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71097-h/images/cover.jpg
 creator:
   author:
     agent_name: Wright, Henry C.
     gutenberg_agent_id: '56073'
     url: http://www.gutenberg.org/2009/agents/56073
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71097#The-unwelcome-child-b-Or-The-crime-of-an-undesigned-and-undesired-maternity
 gutenberg_issued: '2023-07-03'
 identifiers:
   gutenberg: '71097'
